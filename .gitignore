@@ -38,8 +38,6 @@ timeline_cache.json
 
 *.sqlite
 
-characters/
-
 packages/core/src/providers/cache
 packages/core/src/providers/cache/*
 cache/*
@@ -54,3 +52,4 @@ coverage
 .eslintcache
 
 agent/content
+client/vite.config.ts.timestamp-1734826919437-b5527ae9218ed.mjs
